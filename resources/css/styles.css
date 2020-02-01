@@ -275,7 +275,8 @@ img {
   margin-right: -5px;
 }
 
-.item-content button,
+
+.item-content .button,
 .item-content input {
   line-height: 1.6;
   width: 25px;
